@@ -3,7 +3,6 @@
     "name": "P0T",
     "subtitle": "Sets off the Rivals/JJS Anti-Cheat",
     "link": "cuh",
-    "images": [""],
     "sections": [
       {"title": "Overview", "content": "When the script is executed, it sets off the Anti-Cheat by tampering with important functions, which therefore sets off the anti-cheat."},
       {"title": "Usage", "content": "getting stupid skids banned LMAOOOO"}
