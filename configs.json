@@ -2,7 +2,9 @@
   {
     "name": "Kicia Hook",
     "folders": [
-      { "name": "Legit", "folders": [], "files": [] },
+      { "name": "Legit", "folders": [], "files": [
+        { "name": "example.cfg", "content": "test" }
+      ] },
       { "name": "Semi", "folders": [], "files": [] },
       { "name": "Rage", "folders": [], "files": [] }
     ],
